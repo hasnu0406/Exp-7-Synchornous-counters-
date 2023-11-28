@@ -56,33 +56,34 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 Developed by: 
 RegisterNumber:  
 */
+### UPCOUNTER:
+![Screenshot 2023-11-28 204919](https://github.com/hasnu0406/Exp-7-Synchornous-counters-/assets/135305537/b5fd7566-7850-4847-8601-77da5b3ea60b)
 
-
-
-
+### DOWNCOUNTER:
+![Screenshot 2023-11-28 205011](https://github.com/hasnu0406/Exp-7-Synchornous-counters-/assets/135305537/b786decc-4fb9-4ac2-99a1-05ec8aead719)
 
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
+### UPCOUNTER:
+![UPCOUNTER-DIAGRAM](https://github.com/hasnu0406/Exp-7-Synchornous-counters-/assets/135305537/46336570-d6bb-47d0-97e9-607101ed8cf9)
+
+### DOWNCOUNTER:
+![DOWNCOUNTER-DIAGRAM](https://github.com/hasnu0406/Exp-7-Synchornous-counters-/assets/135305537/f72ae682-593a-4b59-9a91-728102e158ec)
 
 
+### TIMING DIAGRAMS FOR COUNTER 
+### UPCOUNTER:
+![UPCOUNTER-WAVEFORM](https://github.com/hasnu0406/Exp-7-Synchornous-counters-/assets/135305537/f6e6ea5e-dfaf-4d72-8990-68b9ec8f3b60)
 
-
-
-
-
-
-
-### TIMING DIGRAMS FOR COUNTER  
-
-
-
+### DOWNCOUNTER:
+![DOWNCOUNTER-WAVEFORM](https://github.com/hasnu0406/Exp-7-Synchornous-counters-/assets/135305537/9519347f-5979-4466-9a22-b50ccf592667)
 
 
 ### TRUTH TABLE 
+### UPCOUNTER:
+![UPCOUNTER-TRUTH TABLE](https://github.com/hasnu0406/Exp-7-Synchornous-counters-/assets/135305537/be1a0827-4571-4bf3-b3da-d718f579bbe7)
 
-
-
-
-
+### DOWNCOUNTER:
+![DOWNCOUNTER-TRUTH TABLE](https://github.com/hasnu0406/Exp-7-Synchornous-counters-/assets/135305537/3e195414-f879-40d5-9e71-2861f6d35d80)
 
 ### RESULTS 
